@@ -1,0 +1,2114 @@
+    1  cd ..
+    2  mousepad .zshrc
+    3  exit
+    4  cd Pictures
+    5  cd ..
+    6  mkdir tmp
+    7  cd tmp
+    8  git clone https://github.com/sgerrand/xfce4-terminal-colors-solarized.git
+    9  cd xfce4-terminal-colors-solarized
+   10  cp ~/.config/xfce4/terminal/terminalrc ~/tmp
+   11  cp dark/terminalrc ~/.config/xfce4/terminal/terminalrc \n
+   12  cd..
+   13  exit
+   14  man telegram-desktop
+   15  telegram-desktop --no-startup-window
+   16  telegram-desktop -startintray
+   17  sudo /etc/init.d/vboxdrv setup
+   18  sudo virtualBox
+   19  sudo VirtualBox
+   20  modprobe vboxdrv
+   21  cd tmp
+   22  sudo mv idea-IU-173.4548.28 /opt
+   23  cd tmp
+   24  sudo mv pycharm-2017.3.3 /opt
+   25  ./idea.sh
+   26  ./pycharm.sh
+   27  sudo idea
+   28  git clone https://Apostrov@bitbucket.org/Apostrov/homeworks.git
+   29  sudo pacman -S gedit
+   30  gedit
+   31  sudo pacman -S htop
+   32  htop
+   33  ls usb
+   34  lsusb
+   35  sudo VirtualBox
+   36  ping 8.8.8.8
+   37  sudo pacman -S gradle
+   38  sudo pacman -S gradle mongodb
+   39  cd Downloads/Telegram\ Desktop
+   40  java -jar Interface.jar
+   41  gradle -v
+   42  cd work/INNObrary
+   43  ls
+   44  mousepad build.gradle
+   45  gradle getHomeDir
+   46  sudo pacman -S java-openjfx 
+   47  yaourt -S javafx-scenebuilder 
+   48  whereis java
+   49  cd work
+   50  ls
+   51  mv -rf INNObrary
+   52  rm -rf INNObrary
+   53  ls
+   54  sudo pacman -S evince
+   55  _evince
+   56  ping 8.8.8.8
+   57  java jar ITP_project.jar
+   58  sudo usermod -a -G vboxusers apo
+   59  sudo VBox
+   60  sudo VirtualBox
+   61  sudo mv /etc/udev/rules.d/51-usbblaster.rules
+   62  sudo mv /etc/udev/rules.d/51-usbblaster.rules /etc/udev/rules.d/91-usbblaster.rules
+   63  cd /etc/udev/rules.d
+   64  ls
+   65  ls -a
+   66  man charm
+   67  charm
+   68  charm &
+   69  disown
+   70  charm &
+   71  disown
+   72  cd work
+   73  git init
+   74  git remote add origin https://Apostrov@bitbucket.org/Apostrov/innopolis.git
+   75  git commit .
+   76  git push -u origin master
+   77  git add .
+   78  ls
+   79  gedit .gitignore
+   80  git add .
+   81  git commit -m "Init"
+   82  git push -u origin master
+   83  charm
+   84  cd ~
+   85  charm &
+   86  gedit MergeSort.java
+   87  disown
+   88  cd work/python/DSA2\ assigment/\#1\ 10.02\ -\ 19.02/
+   89  ls
+   90  python merge_sort.py
+   91  python
+   92  cd work/python/DSA2\ assigment/\#1\ 10.02\ -\ 19.02
+   93  python random_select.py
+   94  sudo pacman  -S love
+   95  love
+   96  cd work
+   97  mkdir other
+   98  ls
+   99  cd other
+  100  gedit main.lua
+  101  sudo pacman -S atom
+  102  sudo pacman -Rsn atom
+  103  sudo pacman -S vim
+  104  vim
+  105  cd work
+  106  ls
+  107  cd other
+  108  vim
+  109  vim main.lua
+  110  yaourt -S brackets
+  111  yaourt -Rsn brackets
+  112  yaourt -S c-areas
+  113  sudo pacman -Rsn c-areas nodejs
+  114  sudo pacman -Rsn c-area nodejs
+  115  sudo pacman -Rsn c-ares nodejs
+  116  sudo pacman -Rsn c-ares npm
+  117  ls
+  118  cd ..
+  119  git add .
+  120  git commit -m "DSA assigment and lua"
+  121  git push -u origin master
+  122  git pull
+  123  cd other
+  124  ls
+  125  love main.lua
+  126  lua main.lua
+  127  mv main.lua main.love
+  128  ls
+  129  love main.love
+  130  mv main.love main.lua
+  131  love SuperGame.love
+  132  vim conf.lua
+  133  ls
+  134  cd work
+  135  cd other
+  136  ls
+  137  vim conf.lua
+  138  ls
+  139  love SuperGame.love
+  140  cat /usr/bin/love SuperGame.love > SuperGame
+  141  mkdir SuperGame
+  142  l
+  143  ls
+  144  love SuperGame
+  145  rm SuperGame
+  146  mkdir SuperGame
+  147  mv *.lua SuperGame
+  148  ls
+  149  cd SuperGame
+  150  zip -9 -r SuperGame.love
+  151  cd ..
+  152  zip -9 -r SuperGame.love
+  153  man zip
+  154  git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+  155  touch .vimrc
+  156  man touch
+  157  mousepad .vimrc
+  158  vim
+  159  mousepad .vimrc
+  160  vim
+  161  ls
+  162  cd work
+  163  ls
+  164  cd python
+  165  ls
+  166  cd DSA2\ assigment/\#1\ 10.02\ -\ 19.02
+  167  ls
+  168  vim max_subarray.py
+  169  vim
+  170  cd ~
+  171  sudo pacman -S cmake
+  172  sudo pacman -S cmake build-essential 
+  173  sudo pacman -S cmake build-essential
+  174  sudo pacman -S cmake
+  175  cd ~/.vim/bundle/YouCompleteMe\n./install.py --clang-completer
+  176  cd ~/.vim/bundle/YouCompleteMe
+  177  vim
+  178  cd ~/.vim/bundle/YouCompleteMe
+  179  ./install.py --clang-completer
+  180  vim
+  181  ~/.vim/bundle/Youcompleteme/install.py
+  182  ./install.py
+  183  vim
+  184  cd ~
+  185  cd work
+  186  l
+  187  sls
+  188  cd python
+  189  ls
+  190  cd DSA2\ assigment/\#1\ 10.02\ -\ 19.02
+  191  ls
+  192  vim merge_sort.py
+  193  python m
+  194  python merge_sort.py
+  195  vim
+  196  charm &
+  197  disown
+  198  ls
+  199  pwd
+  200  cd 
+  201  ls
+  202  cd Desktop
+  203  ls
+  204  cd .
+  205  cd /
+  206  ls
+  207  ls tmp
+  208  ls
+  209  cd /.
+  210  cd 
+  211  exit
+  212  cd work/other
+  213  love SuperGame
+  214  clear
+  215  love SuperGame
+  216  man lua
+  217  love SuperGame
+  218  clea
+  219  clear
+  220  love SuperGame
+  221  clear
+  222  lua
+  223  sudo pacman -S screenfetch
+  224  screenfetch
+  225  htop
+  226  cd work/java/INNObrary
+  227  ls
+  228  cd src
+  229  ls
+  230  java Main.java
+  231  java Main.class
+  232  java DataBase.java
+  233  cd ..
+  234  java src/Main.java
+  235  ls
+  236  cd ..
+  237  ls
+  238  cd DSA\ Java\ assignment
+  239  ls
+  240  cat Main.java
+  241  q
+  242  java Main.java
+  243  java
+  244  java --version
+  245  sudo pacman -S jre8-openjdk-headless jre8-openjdk jdk8-openjdk openjdk8-doc openjdk8-src
+  246  ls
+  247  java Main.java
+  248  archlinux-java status
+  249  archlinux-java fix
+  250  sudo archlinux-java fix
+  251  java Main.java
+  252  sudo pacman -S jre9-openjdk-headless jre9-openjdk jdk9-openjdk openjdk9-doc openjdk9-src
+  253  archlinux-java status
+  254  archlinux-java set java-9-openjdk
+  255  sudo archlinux-java set java-9-openjdk
+  256  cd work/java/DSA\ Java\ assignment
+  257  ls
+  258  java Main.java
+  259  java --version
+  260  cd \#1\ 25.08\ -\ 01.\ 09
+  261  ls
+  262  cd ..
+  263  cd \#2\ 22.09\ -\ 29.09
+  264  ls
+  265  cd ..
+  266  cd \#3\ 20.10\ -\ 27.10
+  267  ls
+  268  cd ..
+  269  cd INNObrary
+  270  ls
+  271  cd src
+  272  java Main.java
+  273  javaw Main.java
+  274  javac Main.java
+  275  cd ..
+  276  cd DSA\ Java\ assignment
+  277  javac Main.java
+  278  java Main.class
+  279  java Main.java
+  280  ls
+  281  cat Main.
+  282  cat Main.class
+  283  cd work/java/INNObrary
+  284  cd src
+  285  java Main
+  286  yaourt -S debtap
+  287  cd Downloads
+  288  ls
+  289  debtap headset_1.6.4_amd64.deb
+  290  sudo debtap headset_1.6.4_amd64.deb
+  291  sudo debtap -u
+  292  debtap headset_1.6.4_amd64.deb
+  293  ls
+  294  htop
+  295  df -H
+  296  charm &
+  297  disown
+  298  python
+  299  sudo pacman -Syu
+  300  y
+  301  sudo pacman -Syu
+  302  nn
+  303  gedit work/python/DSA2\ assigment/\#1\ 10.02\ -\ 19.02/merge_sort.py
+  304  python
+  305  cd work/other/cppEngine
+  306  ls
+  307  g++ main.cpp
+  308  ls
+  309  ls -a
+  310  ./main.cpp
+  311  g++ -o out main.cpp
+  312  ls
+  313  ls -a
+  314  ls -all
+  315  g++ main.cpp -o out
+  316  ls
+  317  ./out
+  318  ./a.out
+  319  g++ main.cpp
+  320  g++ main.cpp -c
+  321  ./main.o
+  322  g++ main.o
+  323  g++ main.cpp -o main
+  324  g++ main.o -o ex
+  325  g++ main.o -o out
+  326  g++ just.cpp
+  327  ./a.out
+  328  rm main.*
+  329  ls
+  330  python 
+  331  sudo pacman -S steam
+  332  steam
+  333  LD_PRELOAD='/usr/$LIB/libstdc++.so.6' LIBGL_DRI3_DISABLE=1 steam
+  334  disown
+  335  rm *.class
+  336  ls
+  337  mongo
+  338  sudo pacman -Syu
+  339  sudo rm /var/lib/mongodb/mongod.lock
+  340  sudo service mongod restart
+  341  mongodb
+  342  mongo
+  343  sudo mongo
+  344  sudo systemctl enable mongodb.service
+  345  mongo
+  346  sudo systemctl start mongodb.service
+  347  mongo
+  348  systemctl status mongodb.service
+  349  nano /usr/lib/systemd/system/mongodb.service
+  350  df -h /var/lib/mongodb
+  351  df -h 
+  352  df -h /var/lib/mongo
+  353  ls -lisa /var/lib/mongodb
+  354  sudo ls -lisa /var/lib/mongodb
+  355  sudo nano /usr/lib/systemd/system/mongodb.service
+  356  systemctl restart mongodb.service
+  357  systemctl daemon-reload
+  358  mongo
+  359  htop
+  360  whereis mongo
+  361  grep dbPath /etc/mongodb.conf
+  362  nano /etc/mongodb.conf
+  363  ps -xa | grep mongod
+  364  cd work/java/INNObrary
+  365  cd src
+  366  ls
+  367  java Main
+  368  java Mainls
+  369  ls 
+  370  java Main.java
+  371  javac Main
+  372  javac Main.java
+  373  java Main
+  374  ls
+  375  rm *.class
+  376  ls
+  377  java Main
+  378  cd work/java/INNObrary
+  379  cd src
+  380  ls
+  381  javac
+  382  javac Main.java
+  383  java Main
+  384  rm *.class
+  385  sudo pacman -Syu
+  386  mongo 127.0.0.1:27000/test
+  387  mongo
+  388  cd work/java
+  389  ls
+  390  cd test
+  391  cd ..
+  392  cd testMongoDB
+  393  ls
+  394  thunar
+  395  java jar testMongoDB-1.0.jar
+  396  cd ..
+  397  cd test
+  398  cd ..
+  399  ls
+  400  cd test
+  401  cd ../testMongoDB
+  402  ls
+  403  gradle fatJar
+  404  ls
+  405  cd 
+  406  java -jar testMongoDB-all-1.0.jar
+  407  cd ..
+  408  cd .
+  409  cd ..
+  410  cd src
+  411  java Main
+  412  java Main.java
+  413  javac Main.java
+  414  gradle clean
+  415  cd ..
+  416  gradle clean
+  417  cd src
+  418  cp *.java ../
+  419  cd ..
+  420  ls
+  421  gradle clean
+  422  gradle farJar
+  423  gradle fatJar
+  424  java -jar testMongoDB-all-1.0.jar
+  425  ls 
+  426  rm *.java
+  427  ls
+  428  cd ..
+  429  cd test
+  430  cd ..
+  431  cd testMongoDB
+  432  ls
+  433  java -jar testMongoDB-all-1.0.jar
+  434  exec /usr/bin/jav testMongoDB-all-1.0.jar
+  435  /usr/bin/java -jar testMongoDB-all-1.0.jar
+  436  java -cp testMongoDB-all-1.0.jar Main
+  437  gradle fatJar
+  438  java -jar testMongoDB-all-1.0.jar
+  439  java -jar testMongoDB-1.0.jar
+  440  gradle clean
+  441  gradle fatJar
+  442  java -jar testMongoDB-all-1.0.jar
+  443  java -jar ITP_project.jar
+  444  steam
+  445  steam &
+  446  disowndisown
+  447  cd work/java/INNObrary
+  448  ls
+  449  git reflog
+  450  git log --pretty=oneline
+  451  git branch dev
+  452  ls
+  453  git log --pretty=oneline
+  454  git reset --hard a3598b742ff740c0786d8798edbe68b24d497376
+  455  ls
+  456  cd src
+  457  ls
+  458  git push origin dev
+  459  cd work
+  460  cd java/INNObrary
+  461  ls
+  462  git checkout dev
+  463  ls
+  464  git checkout dev
+  465  cd ..
+  466  ls
+  467  rm -rf INNObrary
+  468  cd ..
+  469  git commit .
+  470  ls
+  471  cd java
+  472  ls
+  473  whereis mongo
+  474  htop
+  475  cd work/java/INNObrary
+  476  ls
+  477  gradle fatJar
+  478  cd build/libs
+  479  ls
+  480  java -jar INNObrary-
+  481  java -jar INNObrary-all-1.0.jar
+  482  java -jar INNObrary-1.0.jar
+  483  nano /boot/grub/grub.cfg
+  484  sudo nano /boot/grub/grub.cfg
+  485  git commit .
+  486  git add .
+  487  git commit -m "Usual backup"
+  488  git push origin master
+  489  ls
+  490  git pull
+  491  mousepad .gitignore
+  492  git add .
+  493  git commit -m "Delete unused code"
+  494  git push origin master
+  495  whereis mongodb
+  496  mongodb
+  497  mongo
+  498  whereis mongo
+  499  pycharm &
+  500  charm &
+  501  disown
+  502  ls
+  503  cd work/java/INNObrary
+  504  ls
+  505  git commit .
+  506  git add .
+  507  git reset
+  508  git log --pretty=oneline
+  509  git branch new_interface
+  510  git log --pretty=oneline
+  511  steam
+  512  cd Documents
+  513  ls
+  514  sudo cp ComputerOrganizationAndDesign5thEdition2014.pdf /run/media/apo/Local\ Disk/Users/Noa/Desktop
+  515  ping 1.1.1.1
+  516  ping 8.8.8.8
+  517  ping -c10 1.1.1.1
+  518  ping -c10 8.8.8.8
+  519  cd Downloads/Telegram\ Desktop
+  520  java jar INNObrary
+  521  java jar INNObrary.jar
+  522  java -jar INNObrary.jar
+  523  wheris mongo
+  524  whereis mongo
+  525  java -jar INNObrary.jar
+  526  exit
+  527  mongo ds231529.mlab.com:31529/library -u <dbuser> -p <dbpassword>\n
+  528  mongo ds231529.mlab.com:31529/library -u dbuser -p dbpassword\n
+  529  chaem &
+  530  charm &
+  531  cd work
+  532  cd python
+  533  ls
+  534  cd DSA2\ assigment
+  535  ls
+  536  cd \#1\ 10.02\ -\ 19.02
+  537  ls
+  538  rm -rf venv
+  539  ls
+  540  cd ..
+  541  cd DSA\ labs
+  542  ls
+  543  cd ..
+  544  git add .
+  545  git commit -m "Start #2 assigment"
+  546  git push origin
+  547  git push origin master
+  548  python
+  549  cd python/DSA2\ assigment/\#1\ 10.02\ -\ 19.02
+  550  cat binary_multiply1.py
+  551  mousepad merge_sort.py
+  552  mousepad merge_sort.py binary_multiply1.py
+  553  ls
+  554  mousepad merge_sort.py max_subarray.py random_select.py
+  555  ls
+  556  cd t
+  557  cd tmp
+  558  ls
+  559  rm -rf xfce4-terminal-colors-solarized
+  560  ls
+  561  python
+  562  cd ...
+  563  cd ..
+  564  ls
+  565  git add .
+  566  git commit -m "DSA2 assigment 2 solve 5,6 problem"
+  567  git push origin master
+  568  exit
+  569  charm &
+  570  disown
+  571  python
+  572  ls
+  573  cd work
+  574  ls
+  575  cd java/INNObrary
+  576  ls
+  577  rm -rf src
+  578  ls
+  579  git fetch
+  580  git pull
+  581  git revert
+  582  git reset
+  583  git pull
+  584  ls
+  585  git reset HEAD~
+  586  ls
+  587  git log --pretty=oneline
+  588  git reset --hard 0aecd96e536f1453f6e09720ec604932a669f8e2 
+  589  ls
+  590  cd src
+  591  ls
+  592  cd ..
+  593  git checkout master
+  594  git pull origin master
+  595  ls
+  596  cd src
+  597  ls
+  598  cd ..
+  599  ls
+  600  git merge dev
+  601  git revert
+  602  git pull origin master
+  603  git rm .
+  604  ls
+  605  git rm
+  606  git rm -rf .
+  607  ls
+  608  git pull origin master
+  609  git log --pretty=oneline
+  610  git reset --hard 32fcec2b5909ef9eaf2cfb848e083d287e7d6667
+  611  ls
+  612  git checkout dev
+  613  ls
+  614  git rebase master
+  615  git rm README.md
+  616  git rebase --continue
+  617  ls
+  618  git rm README.md
+  619  ls
+  620  git reset --hard 32fcec2b5909ef9eaf2cfb848e083d287e7d6667
+  621  ls
+  622  git status
+  623  git rebase --abort
+  624  ls
+  625  git checkout
+  626  git checkout ,aster
+  627  git checkout master
+  628  git checkout dev
+  629  git fetch origin
+  630  git checkout dev
+  631  ls
+  632  git fetch origin
+  633  git merge master
+  634  git reset --hard 32fcec2b5909ef9eaf2cfb848e083d287e7d6667
+  635  cd ..
+  636  git checkout master
+  637  git merge -s theirs dev
+  638  git merge -s theirs origin/dev
+  639  git merge -X theirs dev
+  640  git merge dev
+  641  ls
+  642  cd src
+  643  ls
+  644  nano DataBase.java
+  645  git fetch origin
+  646  git checkout dev
+  647  git pull origin/dev
+  648  git pull 
+  649  git pull -s theirs
+  650  git log
+  651  git log --pretty=oneline
+  652  git fetchorigin
+  653  git fetch origin
+  654  git log --pretty=oneline
+  655  cd ..
+  656  git log --pretty=oneline
+  657  rm -rf src
+  658  git pull
+  659  git reset
+  660  ls
+  661  git pull
+  662  git pull -s theirs
+  663  git pull -s recursive -X theirs
+  664  git pull -s recursive -X theirs origin/dev
+  665  git pull -s recursive -X theirs 
+  666  git pull -s recursive -X theirs origin
+  667  git log --pretty=oneline
+  668  git checkout master
+  669  git log --pretty=oneline
+  670  git checkout new_interface
+  671  cd ..
+  672  ls
+  673  rm -rf INNObrary
+  674  git clone https://github.com/INNObrary/INNObrary.git
+  675  ls
+  676  cd INNObrary
+  677  git checkout dev
+  678  git log --pretty=oneline
+  679  git checkout master
+  680  git merge dev -s recursive -X theirs
+  681  git rm .idea/
+  682  git rm -r .idea/
+  683  git add .
+  684  git commit -m "Merge with dev"
+  685  git push origin master
+  686  cd ..
+  687  git add .
+  688  git ..
+  689  cd ..
+  690  git add .
+  691  git commit -m "Assigment 3 solve and start to solve 1" 
+  692  git push origin master
+  693  sudo pacman -Syu
+  694  charm &
+  695  disown
+  696  python
+  697  ls
+  698  cd work/other
+  699  cd cppTrash
+  700  ls
+  701  g++ just.cpp
+  702  ./a.out
+  703  g++ just.cpp
+  704  ./a.out
+  705  g++ just.cpp
+  706  ./a.out
+  707  g++ just.cpp
+  708  ./a.out
+  709  g++ just.cpp
+  710  ./a.out
+  711  g++ just.cpp
+  712  ./a.out
+  713  g++ just.cpp
+  714  ./a.out
+  715  g++ just.cpp
+  716  ./a.out
+  717  g++ just.cpp
+  718  ./a.out
+  719  g++ just.cpp
+  720  ./a.out
+  721  cd ..
+  722  git add .
+  723  git commit -m "Solve 1 problem"
+  724  git push origin master
+  725  add .
+  726  git add .
+  727  git commit -m "Solve 4 problem"
+  728  git push origin master
+  729  charm &
+  730  disown
+  731  charm &
+  732  disown
+  733  python
+  734  git add .
+  735  cd work
+  736  git add .
+  737  git commit -m "Assigment complete\n
+  738  git add .
+  739  git commit -m "Assigment complete\n\n"
+  740  git push origin master
+  741  sudo pacman -Syu
+  742  git push origin master
+  743  sudo pacman -Syu
+  744  sudo cp T_kormen_Ch_leyzerson_R_rivest_K_shtayn_-_Algo.pdf /run/media/apo/Local\ Disk/Users/Noa/Desktop
+  745  screenfetch
+  746  uname -a
+  747  sudo pacman -Syu
+  748  ^[[200~ln -s /usr/share/themes/Palemoon/Vertex-Maia-Dark/chrome/ ~/.moonchild\ productions/pale\ moon/<xyz123>.default/chrome~
+  749  ln -s /usr/share/themes/Palemoon/Vertex-Maia-Dark/chrome/ ~/.moonchild\ productions/pale\ moon/<xyz123>.default/chrome
+  750  git clone https://github.com/addy-dclxvi/Xfwm4-Theme-Collections ~/.themes
+  751  git clone https://github.com/addy-dclxvi/gtk-theme-collections ~/.themes
+  752  rm -rf .themes/.git
+  753  git clone https://github.com/addy-dclxvi/gtk-theme-collections ~/.themes
+  754  rm -f .themes/.git
+  755  ls .themes
+  756  ls -a .themes
+  757  git clone https://github.com/addy-dclxvi/gtk-theme-collections ~/.themes
+  758  git clone https://github.com/addy-dclxvi/gtk-theme-collections .themes
+  759  git clone https://github.com/addy-dclxvi/gtk-theme-collections tmp/delete
+  760  man mv
+  761  mv tmp/delete/* .themes
+  762  sudo pacman -S arc-icon-theme
+  763  echo "hello"
+  764  screenfetch
+  765  clear
+  766  exit
+  767  sudo cp wallhaven-640819.jpg /usr/share/backgrounds/
+  768  cd work/java/INNObrary/
+  769  git pull
+  770  git checkout dev
+  771  rf -rf .idea
+  772  rm -rf .idea
+  773  git checkout dev
+  774  git pull
+  775  git merge master
+  776  cd work/java/INNObrary
+  777  git pull
+  778  git checkout master
+  779  git reset
+  780  git pull
+  781  git log --pretty=oneline
+  782  git reset --hard 3dabb5307c55fd6b072cbe9ab0eea9e74633eeef
+  783  git merge master -s recursive -X our
+  784  git merge -X ours master
+  785  git pull
+  786  git merge -X ours master
+  787  git checkout master
+  788  pull
+  789  git pull
+  790  git checkout dev
+  791  git merge master
+  792  git check --ours origin/dev
+  793  git checkout --ours origin/dev
+  794  grep -lr '<<<<<<<' . | xargs git checkout --ours
+  795  git reser
+  796  git reset
+  797  git reset --hard 3dabb5307c55fd6b072cbe9ab0eea9e74633eeef
+  798  git checkout master
+  799  git pull
+  800  git checkout master
+  801  git log --pretty=oneline
+  802  git reset --hard 46cbe8cdcec6d2723600646a1ccb3be168d148e4
+  803  git add .
+  804  git push origin master
+  805  git commit
+  806  ls
+  807  ls src
+  808  git push --force origin master
+  809  git checkout dev
+  810  ping youtube.com
+  811  cd tmp
+  812  ls
+  813  vi sumOfNum.asm
+  814  vi sumOfNum.asm\\nq
+  815  vi sumOfNum.asm
+  816  sed
+  817  sudo pacman -S docker
+  818  sudo pacman -S openvpn
+  819  openvpn
+  820  sudo cp /usr/share/openvpn/examples/client.conf /etc/openvpn/client
+  821  cd Downloads
+  822  ls
+  823  sudo openvpn --config innostudents.ovpn
+  824  sudo pacman -Syu
+  825  yaourt -Syua
+  826  sudo nano /etc/systemd/system.conf.d/limits.conf
+  827  sudo nano /etc/security/limits.conf
+  828  yaourt -Syua
+  829  htop
+  830  yaourt -S kodelife
+  831  KodeLife
+  832  sudo pacman -Syu
+  833  sudo pip install django
+  834  pip install --upgrade pip
+  835  sudo pip install --upgrade pip
+  836  charm && \n
+  837  charm &\n
+  838  disarm
+  839  disown
+  840  cd work/python
+  841  cd django
+  842  ls
+  843  rm -rf test
+  844  ls
+  845  cd ..
+  846  git add .
+  847  git commit -m "Djano study start"
+  848  git push origin master
+  849  cd python/django
+  850  ls
+  851  cd study
+  852  ls
+  853  python manage.py runserver
+  854  python manage.py migrate
+  855  python manage.py runserver
+  856  cd work/python/django/study/
+  857  python manage.py startapp music
+  858  python manage.py migrate
+  859  python manage.py createsuperuser
+  860  python manage.py runserver
+  861  cd work/python/django/study
+  862  python manage.py runserver
+  863  cd work/python/django/study
+  864  python manage.py runserver
+  865  python manage.py migrate
+  866  python manage.py makemigrate music
+  867  ls
+  868  python manage.py makemigrations music
+  869  python manage.py shell
+  870  python manage.py sqlmigrate music
+  871  python manage.py sqlmigrate music 0001
+  872  python manage.py shell
+  873  python manage.py migrate music
+  874  python manage.py sqlmigrate music 0001
+  875  python manage.py shell
+  876  cd ..
+  877  git add .
+  878  git commit -m "10 lesson of django complete"
+  879  git push origin master
+  880  python manage.py changepassword admin
+  881  sudo pacman -Syu 
+  882  yaourt -Syua
+  883  sudo pacman -S postgresql
+  884  docker --version
+  885  python manage.py shell
+  886  psql
+  887  sudo psql
+  888  /run/postgresql/.s.PGSQL.5432
+  889  sudo -u postgres -i
+  890  sudo systemctl enable postgresql
+  891  sudo systemctl start postgresql
+  892  sudo pip install psycopg2
+  893  python manage.py makemigrations
+  894  sudo pip install psycopg2-binary
+  895  python manage.py makemigrations
+  896  python manage.py migrate
+  897  python manage.py createsuperuser
+  898  cd work/python/django/study
+  899  python manage.py sqlmigrate music 0001
+  900  python manage.py migrate
+  901  cd work/python/django/study
+  902  cd ~
+  903  cd work
+  904  git add .
+  905  git commit -m "Complete 20 django tutorials"
+  906  git push origin master
+  907  git log --pretty=oneline
+  908  python manage.py makemigrations
+  909  python manage.py migration
+  910  python manage.py migrate
+  911  git clone https://gitlab.com/dariamikl/Innopoints-3.0.git
+  912  ls
+  913  cd  Innopoints-3.0
+  914  ls
+  915  cd ..
+  916  ls
+  917  mousepad .gitignore
+  918  ls
+  919  git pull
+  920  git add .
+  921  git commit -m "Update gitingnore"
+  922  git push origin master
+  923  cd python
+  924  cd Innopoints-3.0
+  925  ls
+  926  git checkout -b dev
+  927  mousepad Dockerfile
+  928  ls
+  929  mousepad requirements.txt
+  930  mousepad docker-compose.yml
+  931  ls
+  932  sudo docker-compose run web django-admin.py startproject composeexample .
+  933  sudo pacman -S docker
+  934  docker-compose run
+  935  sudo curl -L https://github.com/docker/compose/releases/download/1.21.2/docker-compose-$\(uname -s)-$(uname -m) -o /usr/local/bin/docker-compose
+  936  sudo curl -L https://github.com/docker/compose/releases/download/1.21.2/docker-compose-$\(apo -s)-$(apo -m) -o /usr/local/bin/docker-compose
+  937  sudo curl -L https://github.com/docker/compose/releases/download/1.21.2/docker-compose-$\(uname -s)-$(uname -m) -o /usr/local/bin/docker-compose
+  938  curl -L https://github.com/docker/compose/releases/download/1.21.2/docker-compose-`uname -s`-`uname -m` > ./docker-compose~
+  939  sudo mv ./docker-compose /usr/bin/docker-compose
+  940  cd ./
+  941  ls
+  942  curl -L https://github.com/docker/compose/releases/download/1.21.2/docker-compose-`uname -s`-`uname -m` > docker-compose~
+  943  ls
+  944  sudo mv docker-compose~ /usr/bin/docker-compose
+  945  sudo chmod +x /usr/bin/docker-compose
+  946  ls
+  947  sudo docker-compose run web django-admin.py startproject composeexample .
+  948  docker-compose --version
+  949  docker info
+  950  sudo systemctl start docker.service
+  951  sudo systemctl enable docker.service
+  952  docker info
+  953  sudo docker info
+  954  sudo docker-compose run web django-admin.py startproject composeexample .
+  955  django-admin.py startproject innopoints
+  956  ls
+  957  cd composeexample/
+  958  ls
+  959  cd ..
+  960  cd innopoints
+  961  ls
+  962  cd innopoints
+  963  ls
+  964  cd ..
+  965  l
+  966  ls
+  967  cd ..
+  968  ls
+  969  ls -a
+  970  docker info
+  971  sudo docker-compose run web django-admin.py startproject composeexample .
+  972  docker info
+  973  sudo docker info
+  974  docker image
+  975  sudo docker image
+  976  sudo docker images
+  977  docker stop $(docker ps -a -q)
+  978  sudo docker stop $(docker ps -a -q)
+  979  sudo docker rm $(docker ps -a -q)
+  980  sudo docker images
+  981  sudo docker info
+  982  systemctl enable docker.socket
+  983  systemctl start docker.socket
+  984  sudo docker stop $(docker ps -a -q)
+  985  sudo docker info
+  986  sudo docker container
+  987  sudo docker container ls
+  988  sudo docker images
+  989  sudo docker rmi 4329d7e7eb8f
+  990  docker ps -a -q
+  991  sudo docker stop $(sudo docker ps -a -q)
+  992  docker rm $(sudo docker ps -a -q)
+  993  sudo docker rm $(sudo docker ps -a -q)
+  994  systemctl disable docker.socket
+  995  sudo docker info
+  996  sudo docker image
+  997  sudo docker images
+  998  sudo docker images -a
+  999  sudo docker images -a -q
+ 1000  sudo docker rmi($sudo docker images -a -q)\n
+ 1001  sudo docker rmi$(sudo docker images -a -q)\n
+ 1002  sudo docker rmi $(sudo docker images -a -q)\n
+ 1003  ls
+ 1004  rm -rf composeexample 
+ 1005  sudo rm -rf composeexample 
+ 1006  sudo rm -rf innopoints
+ 1007  sudo rm -rf manage.py
+ 1008  ls
+ 1009  ls a
+ 1010  ls -al
+ 1011  docker --version
+ 1012  sudo docker info
+ 1013  ls
+ 1014  cd innopoints
+ 1015  ls
+ 1016  cd ..
+ 1017  python manage.py
+ 1018  python manage.py shell
+ 1019  cd innopoints/
+ 1020  ls
+ 1021  mousepad settings.py
+ 1022  sudo docker-compose up
+ 1023  sudo docker ps
+ 1024  cd ..
+ 1025  cd Innopoints-3.0
+ 1026  git add .
+ 1027  git commit -m "Django + docker + postgresql setup complete"
+ 1028  ls
+ 1029  git push origin dev
+ 1030  git config --global user.name "Amir"\ngit config --global user.email "amir.subaev@gmail.com"
+ 1031  git config
+ 1032  mousepad .gitignore
+ 1033  ls
+ 1034  mousepad requirements.txt 
+ 1035  sudo docker-compose up
+ 1036  man docker-compose up
+ 1037  sudo docker-compose up --build -d
+ 1038  sudo docker-compose up
+ 1039  mousepad requirements.txt 
+ 1040  sudo docker info
+ 1041  sudo docker images
+ 1042  sudo docker ps
+ 1043  sudo docker ps -a
+ 1044  sudo docker-compose up --build -d
+ 1045  docker-compose logs
+ 1046  sudo docker-compose logs
+ 1047  sudo docker-compose up -d
+ 1048  mousepad requirements.txt 
+ 1049  sudo docker-compose up -d
+ 1050  mousepad requirements.txt 
+ 1051  sudo docker-compose up
+ 1052  python manage.py migrate
+ 1053  docker s
+ 1054  docker ps
+ 1055  sudo docker ps
+ 1056  sudo docker ps -a
+ 1057  sudo docker ps -q
+ 1058  sudo docker ps -a -q
+ 1059  sudo docker ps -q
+ 1060  sudo docker ps -a
+ 1061  sudo docker-compose exec web python manage.py migrate
+ 1062  sudo docker-compose exec web python manage.py makemigrations 
+ 1063  sudo docker ps -a
+ 1064  sudo docker-compose up
+ 1065  sudo docker-compose exec web python manage.py makemigrations 
+ 1066  cd work/python/Innopoints-3.0/
+ 1067  sudo docker-compose exec web python manage.py makemigrations 
+ 1068  sudo docker-compose exec web python manage.py migrate
+ 1069  ls
+ 1070  mousepad README.md
+ 1071  ls
+ 1072  cat README.md
+ 1073  sudo docker-compose exec web python manage.py startapp user
+ 1074  sudo docker-compose run web python manage.py startapp user
+ 1075  docker
+ 1076  docker info
+ 1077  sudo groupadd docker
+ 1078  sudo gpasswd -a $USER docker
+ 1079  docker info
+ 1080  systemctl start docker.socket
+ 1081  docker info
+ 1082  systemctl is-enabled docker.socket
+ 1083  systemctl is-active docker.socket
+ 1084  ls -lah /var/run/docker.sock
+ 1085  groups
+ 1086  ls
+ 1087  chown -R $USER: user
+ 1088  sudo chown -R $USER: user
+ 1089  sudo docker-compose run web python manage.py createsuperuser
+ 1090  sudo docker-compose up
+ 1091  sudo docker-compose exec web python manage.py makemigration 
+ 1092  cd work/python/Innopoints-3.0/
+ 1093  sudo docker-compose exec web python manage.py makemigration 
+ 1094  sudo docker-compose exec web python manage.py makemigrations
+ 1095  sudo docker-compose exec web python manage.py migrate
+ 1096  sudo docker-compose exec web python manage.py sqlmigrate
+ 1097  sudo docker-compose exec web python manage.py makemigrations
+ 1098  sudo docker-compose exec web python manage.py migrate
+ 1099  git push origin dev
+ 1100  cd work/python/Innopoints-3.0/
+ 1101  git push origin dev
+ 1102  git push -u origin dev
+ 1103  git remote -v
+ 1104  git push --force -u origin dev
+ 1105  git push -u origin dev
+ 1106  ls
+ 1107  git add .
+ 1108  git commit -m "User model and api"
+ 1109  git push -u origin dev
+ 1110  cd work/python/Innopoints-3.0/
+ 1111  ls
+ 1112  git checkout feature/models
+ 1113  git fetch
+ 1114  git checkout feature/models
+ 1115  git checkout dev
+ 1116  cd user
+ 1117  rm -rf __pycache__
+ 1118  sudo rm -rf __pycache__
+ 1119  sudo rm -rf migrations
+ 1120  git checkout dev
+ 1121  git pull
+ 1122  git merge feature/models
+ 1123  git log --pretty=oneline
+ 1124  git reset --hard 7dc6acd93cfc20de4d64d490fe1301f92a2a393f
+ 1125  git merge feature/models
+ 1126  sudo git merge feature/models
+ 1127  sudo git checkout feature/models
+ 1128  sudo git checkout dev
+ 1129  sudo git merge feature/models
+ 1130  sudo git merge --allow-unrelated-histories feature/models
+ 1131  git merge --allow-unrelated-histories feature/models
+ 1132  git add .
+ 1133  git commit -m "Merge feature/models into dev"
+ 1134  git merge --allow-unrelated-histories feature/models
+ 1135  git rm .
+ 1136  git rm -r .
+ 1137  git reset --hard 7dc6acd93cfc20de4d64d490fe1301f92a2a393f
+ 1138  git merge --allow-unrelated-histories feature/models
+ 1139  git reset --hard 7dc6acd93cfc20de4d64d490fe1301f92a2a393f
+ 1140  git checkout feature/models
+ 1141  sudo git checkout dev
+ 1142  git log --pretty=oneline
+ 1143  git reset --hard 99e1af0f16d2239d2f30e20c09eed9b4227f51d1
+ 1144  sudo git checkout dev
+ 1145  ls
+ 1146  rm -rf __pycache__
+ 1147  sudo rm -rf __pycache__
+ 1148  sudo rm -rf migrations
+ 1149  cd ..
+ 1150  sudo rm -rf innopoints/__pycache__
+ 1151  sudo git checkout dev
+ 1152  git reset --hard 7dc6acd93cfc20de4d64d490fe1301f92a2a393f
+ 1153  sudo git reset --hard 7dc6acd93cfc20de4d64d490fe1301f92a2a393f
+ 1154  sudo git checkout feature/models
+ 1155  sudo git checkout dev
+ 1156  sudo git checkout feature/models
+ 1157  sudo git pull
+ 1158  cd ..
+ 1159  sudo chmod -R $USER: Innopoints-3.0
+ 1160  sudo chown -R $USER: Innopoints-3.0
+ 1161  cd Innopoints-3.0
+ 1162  sudo git pull
+ 1163  git log --pretty=oneline
+ 1164  git fetch
+ 1165  git log --pretty=oneline
+ 1166  git reset --hard 99e1af0f16d2239d2f30e20c09eed9b4227f51d1
+ 1167  git fetch
+ 1168  sudo git pull
+ 1169  man git pull
+ 1170  man git pull -r
+ 1171  sudo git pull -r
+ 1172  git log --pretty=oneline
+ 1173  sudo git pull --rebase
+ 1174  git pull
+ 1175  sudo git pull
+ 1176  cd ..
+ 1177  sudo chown -R $USER: Innopoints-3.0
+ 1178  cd Innopoints-3.0
+ 1179  sudo docker-compose run web manage.py makemigrations
+ 1180  sudo docker-compose up
+ 1181  sudo docker-compose exec web python manage.py makemigrations
+ 1182  cd work/python/Innopoints-3.0/
+ 1183  sudo docker-compose exec web python manage.py makemigrations
+ 1184  git log --pretty=oneline
+ 1185  sudo git reset --hard bd3d89b51ca65a8d6964f105488aceb0b2bafb61
+ 1186  sudo docker-compose up
+ 1187  sudo docker-compose up --build -d
+ 1188  sudo docker-compose up
+ 1189  cd ..
+ 1190  sudo chown -R $USER: Innopoints-3.0
+ 1191  sudo docker-compose up
+ 1192  cd work/python/Innopoints-3.0/
+ 1193  sudo docker-compose exec web python manage.py makemigrations
+ 1194  sudo docker-compose exec web python manage.py migrate
+ 1195  sudo docker-compose run web python manage.py dbshell
+ 1196  sudo pacman -Syu
+ 1197  cd work/python/Innopoints-3.0/
+ 1198  sudo docker-compose up --build -d
+ 1199  sudo docker-compose up
+ 1200  cd work/python/Innopoints-3.0/
+ 1201  sudo docker-compose exec web python manage.py migrate
+ 1202  sudo docker-compose exec web python manage.py shell
+ 1203  sudo docker-compose exec web python manage.py dbshell
+ 1204  sudo docker-compose up
+ 1205  sudo docker-compose exec web python manage.py migrate
+ 1206  sudo docker-compose exec web python manage.py dbshell
+ 1207  sudo docker-compose exec web python manage.py dbshell psql
+ 1208  sudo docker-compose exec web python manage.py dbshell --version
+ 1209  psql
+ 1210  sudo psql
+ 1211  python manage.py dbshell
+ 1212  cd work/python/Innopoints-3.0/
+ 1213  sudo docker info
+ 1214  sudo docker ps
+ 1215  sudo docker run -it innopoints-30_db_1 psql -U db -W postgres postgres\n
+ 1216  sudo git reset --hard bd3d89b51ca65a8d6964f105488aceb0b2bafb61
+ 1217  sudo docker-compose up
+ 1218  cd work/python/Innopoints-3.0/
+ 1219  cd ..
+ 1220  sudo chown -R $USER: Innopoints-3.0
+ 1221  cd Innopoints-3.0
+ 1222  sudo docker-compose exec web python manage.py makemigrations
+ 1223  sudo docker-compose exec web python manage.py migrate
+ 1224  sudo docker-compose exec web python manage.py dbshell
+ 1225  sudo docker-compose exec web python manage.py makemigrations
+ 1226  sudo docker-compose exec web python manage.py migrate
+ 1227  cd Innopoints-3.0
+ 1228  cd work/python/Innopoints-3.0/
+ 1229  sudo docker images
+ 1230  sudo docker images -a -q
+ 1231  sudo docker stop$(sudo docker ps -a -q)
+ 1232  sudo docker stop $(sudo docker ps -a -q)
+ 1233  sudo docker rmi $(sudo docker images -a -q)
+ 1234  sudo docker rm $(sudo docker ps -a -q)
+ 1235  sudo docker rmi $(sudo docker images -a -q)
+ 1236  sudo docker info
+ 1237  sudo docker images
+ 1238  sudo docker ps
+ 1239  ls
+ 1240  cd job
+ 1241  sudo rm -rf migrations
+ 1242  cd ..
+ 1243  sudo rm -rf user/migrations
+ 1244  sudo docker-compose up --build -d
+ 1245  sudo docker-compose up
+ 1246  sudo docker-compose up --build -d
+ 1247  sudo docker-compose up
+ 1248  cd work/python/Innopoints-3.0/
+ 1249  sudo docker-compose exec web python manage.py migrate
+ 1250  sudo docker-compose exec web python manage.py makemigrations
+ 1251  sudo docker-compose exec web python manage.py migrate
+ 1252  sudo docker-compose exec web python manage.py createsuperuser
+ 1253  sudo docker-compose exec web python manage.py makemigrations
+ 1254  sudo docker-compose exec web python manage.py migrate
+ 1255  sudo docker-compose exec web python manage.py makemigrations
+ 1256  sudo docker-compose exec web python manage.py migrate
+ 1257  sudo docker-compose exec web python manage.py sqlmigrate 0001
+ 1258  sudo docker-compose exec web python manage.py makemigrations core
+ 1259  sudo docker-compose exec web python manage.py migrate
+ 1260  sudo docker-compose exec web python manage.py makemigrations job
+ 1261  sudo docker-compose exec web python manage.py migrate
+ 1262  sudo docker-compose exec web python manage.py makemigrations job
+ 1263  sudo docker-compose exec web python manage.py migrate
+ 1264  sudo docker-compose exec web python manage.py makemigrations core
+ 1265  sudo docker-compose exec web python manage.py migrate
+ 1266  sudo docker-compose exec web python manage.py makemigrations core
+ 1267  sudo docker-compose exec web python manage.py migrate
+ 1268  sudo docker-compose exec web python manage.py makemigrations core
+ 1269  sudo docker-compose exec web python manage.py migrate
+ 1270  sudo docker-compose exec web python manage.py makemigrations core
+ 1271  sudo docker-compose exec web python manage.py migrate
+ 1272  sudo docker-compose exec web python manage.py makemigrations core
+ 1273  sudo docker-compose exec web python manage.py migrate
+ 1274  sudo docker stop $(sudo docker ps -a -q)
+ 1275  sudo docker rm $(sudo docker ps -a -q)
+ 1276  sudo docker rmi $(sudo docker images -a -q)
+ 1277  sudo docker-compose up --build -d
+ 1278  sudo docker-compose гз
+ 1279  sudo docker-compose up
+ 1280  sudo docker-compose exec web python manage.py makemigrations
+ 1281  sudo docker-compose exec web python manage.py migrate
+ 1282  sudo rm -rf core/migrations
+ 1283  sudo rm -rf job/migrations
+ 1284  sudo docker-compose exec web python manage.py makemigrations
+ 1285  sudo docker-compose exec web python manage.py migrate
+ 1286  sudo docker-compose exec web python manage.py makemigrations job
+ 1287  sudo docker-compose exec web python manage.py migrate
+ 1288  sudo docker-compose exec web python manage.py makemigrations core
+ 1289  sudo docker-compose exec web python manage.py migrate
+ 1290  sudo docker-compose exec web python manage.py createsuperuser
+ 1291  sudo docker-compose exec web python manage.py makemigrations
+ 1292  sudo docker-compose exec web python manage.py makemigrations core
+ 1293  sudo docker-compose exec web python manage.py migrate
+ 1294  sudo docker-compose exec web python manage.py migrate core
+ 1295  sudo docker-compose exec web python manage.py makemigrations core
+ 1296  sudo docker-compose exec web python manage.py migrate core
+ 1297  sudo docker-compose exec web python manage.py makemigrations core
+ 1298  sudo docker-compose exec web python manage.py migrate
+ 1299  sudo docker-compose exec web python manage.py sqlmigrate 0003
+ 1300  sudo docker-compose exec web python manage.py sqlmigrate 0002_auto_20180530_0849
+ 1301  sudo rm -rf core/migrations
+ 1302  sudo docker-compose exec web python manage.py makemigrations core
+ 1303  sudo docker-compose exec web python manage.py migrate
+ 1304  sudo docker-compose exec web python manage.py migrate core
+ 1305  sudo docker-compose exec web python manage.py makemigrations core
+ 1306  sudo docker-compose exec web python manage.py migrate core
+ 1307  sudo docker-compose exec web python manage.py makemigrations core
+ 1308  sudo docker-compose exec web python manage.py makemigrations 
+ 1309  sudo docker-compose exec web python manage.py migrate
+ 1310  sudo docker-compose exec web python manage.py makemigrations 
+ 1311  sudo docker-compose exec web python manage.py migrate
+ 1312  sudo docker-compose exec web python manage.py makemigrations 
+ 1313  sudo docker-compose exec web python manage.py migrate
+ 1314  sudo docker-compose exec web python manage.py makemigrations 
+ 1315  sudo docker-compose exec web python manage.py shell
+ 1316  sudo docker-compose exec web python manage.py syncdb
+ 1317  sudo docker-compose exec web python manage.py dbshell
+ 1318  sudo pacman -Spostgresql
+ 1319  sudo pacman -S postgresql
+ 1320  sudo docker-compose exec web python manage.py dbshell -d postgres
+ 1321  psql
+ 1322  su
+ 1323  sudo docker-compose exec web python manage.py migrate
+ 1324  sudo docker-compose exec web python manage.py makemigrations 
+ 1325  sudo docker-compose up
+ 1326  sudo docker-compose exec web python manage.py dbshell
+ 1327  sudo docker-compose exec web python manage.py makemigrations 
+ 1328  sudo docker stop $(sudo docker ps -a -q)
+ 1329  sudo docker rm $(sudo docker ps -a -q)
+ 1330  sudo docker rmi $(sudo docker images -a -q)
+ 1331  sudo docker-compose up --build -d
+ 1332  sudo docker-compose up
+ 1333  sudo docker-compose exec web python manage.py makemigrations 
+ 1334  sudo rm -rf core/migrations
+ 1335  sudo rm -rf job/migrations
+ 1336  sudo docker-compose exec web python manage.py makemigrations 
+ 1337  sudo docker-compose exec web python manage.py migrate
+ 1338  sudo docker-compose up
+ 1339  sudo docker-compose exec web python manage.py makemigrations core
+ 1340  sudo docker-compose exec web python manage.py makemigrations job
+ 1341  sudo docker-compose exec web python manage.py migrate
+ 1342  sudo docker-compose exec web python manage.py createsuperuser
+ 1343  ls
+ 1344  sudo rm *.jpg
+ 1345  sudo git checkout -b feature/api
+ 1346  git add .
+ 1347  git commit -m "Models fix, add core api"
+ 1348  sudo git commit -m "Models fix, add core api"
+ 1349  sudo git config --global user.email "amir.subaev@gmail.com"
+ 1350  sudo git config --global user.name "Amir"
+ 1351  sudo git commit -m "Models fix, add core api"
+ 1352  sudo git push -u origin feature/api
+ 1353  git add .
+ 1354  sudo git commit -m "Change gitignore"
+ 1355  sudo git push -u origin feature/api
+ 1356  sudo rm -rf core/__pycache__
+ 1357  sudo rm -rf innopoints/__pycache__
+ 1358  sudo rm -rf job/__pycache__
+ 1359  git add .
+ 1360  sudo git commit -m "Delete pychache"
+ 1361  sudo git push -u origin feature/api
+ 1362  ping 8.8.8.8
+ 1363  cd work/python/Innopoints-3.0/
+ 1364  sudo docker-compose up
+ 1365  git add .
+ 1366  sudo git commit -m "Update core api and add job api"
+ 1367  sudo git push -u origin feature/api
+ 1368  ls
+ 1369  cd work/python/Innopoints-3.0/
+ 1370  ls
+ 1371  cd innopoints
+ 1372  cat urls.py
+ 1373  sudo docker-compose up
+ 1374  git add .
+ 1375  sudo git commit -m "Fix urls"
+ 1376  ls
+ 1377  cd ..
+ 1378  git reset HEAD~
+ 1379  sudo git reset HEAD~
+ 1380  git add .
+ 1381  sudo git commit -m "Fix urls"
+ 1382  sudo git push -u origin feature/api
+ 1383  sudo pacman -Syu
+ 1384  yaourt -Syua
+ 1385  yaourt -S staruml
+ 1386  yaourt -S appimage-git
+ 1387  cd work/python/Innopoints-3.0/
+ 1388  sudo docker-compose up
+ 1389  docker-compose up
+ 1390  cd work/python/Innopoints-3.0/
+ 1391  cd ..
+ 1392  sudo chown -R $USER: Innopoints-3.0
+ 1393  cd Innopoints-3.0
+ 1394  docker-compose exec web python manage.py startapp individual_achievement
+ 1395  ls
+ 1396  cd ..
+ 1397  sudo chown -R $USER: Innopoints-3.0
+ 1398  cd Innopoints-3.0
+ 1399  docker-compose exec web python manage.py makemigrations
+ 1400  docker-compose exec web python manage.py migrate
+ 1401  docker-compose exec web python manage.py startapp store
+ 1402  sudo chown -R $USER: store
+ 1403  docker-compose exec web python manage.py makemigrations
+ 1404  sudo docker-compose exec web python manage.py makemigrations
+ 1405  docker-compose exec web python manage.py makemigrations
+ 1406  docker-compose exec web python manage.py migrate
+ 1407  docker-compose exec web python manage.py makemigrations
+ 1408  docker-compose exec web python manage.py migrate
+ 1409  docker-compose exec web python manage.py makemigrations
+ 1410  docker-compose exec web python manage.py migrate
+ 1411  docker-compose up
+ 1412  docker-compose exec web python manage.py makemigrations
+ 1413  docker-compose exec web python manage.py migrate
+ 1414  docker-compose exec web python manage.py makemigrations
+ 1415  docker-compose exec web python manage.py startapp profile
+ 1416  docker-compose exec web python manage.py startapp user_profile
+ 1417  sudo chown -R $USER: user_profile
+ 1418  sudo chown -R $USER: *
+ 1419  docker-compose exec web python manage.py makemigrations
+ 1420  docker-compose exec web python manage.py migrate
+ 1421  sudo chown -R $USER: *
+ 1422  git add .
+ 1423  git commit -m "Add models: store, individual achievement and user profile"
+ 1424  git push -u origin feature/api
+ 1425  ls
+ 1426  cd work/python/Innopoints-3.0/
+ 1427  docker-compose up
+ 1428  cd work/python/Innopoints-3.0/
+ 1429  docker-compose exec web python manage.py makemigrations
+ 1430  docker-compose exec web python manage.py migrate
+ 1431  docker-compose exec web python manage.py makemigrations
+ 1432  docker-compose exec web python manage.py migrate
+ 1433  docker-compose exec web python manage.py makemigrations
+ 1434  docker-compose exec web python manage.py migrate
+ 1435  git pull
+ 1436  git fetch
+ 1437  docker-compose up
+ 1438  docker-compose exec web python manage.py makemigrations
+ 1439  docker-compose exec web python manage.py migrate
+ 1440  docker-compose exec web python manage.py makemigrations
+ 1441  docker-compose exec web python manage.py migrate
+ 1442  ls
+ 1443  sudo rm cot.jpg
+ 1444  ls
+ 1445  git checkout -b feature/store_profile_indAch_api
+ 1446  git add .
+ 1447  git commit -m "Add api for store, user profile and individual achievement"
+ 1448  git checkout feature/api
+ 1449  ls
+ 1450  git log --pretty=oneline
+ 1451  git reset HEAD~
+ 1452  git add .
+ 1453  git log --pretty=oneline
+ 1454  git reset HEAD~
+ 1455  git log --pretty=oneline
+ 1456  git fetch
+ 1457  git log --pretty=oneline
+ 1458  git pull
+ 1459  git add .
+ 1460  git remove .
+ 1461  git rm .
+ 1462  git reset feature/api
+ 1463  git log --pretty=oneline
+ 1464  git pull
+ 1465  git log --pretty=oneline
+ 1466  git pull
+ 1467  git reflog
+ 1468  git reset --hard 86282d5
+ 1469  git checkout feature/api
+ 1470  git log --pretty=oneline
+ 1471  git reflog
+ 1472  git reset --hard 86282d5
+ 1473  git log --pretty=oneline
+ 1474  git pull
+ 1475  git log --pretty=oneline
+ 1476  git reflog
+ 1477  git reset --hard 92b8df0
+ 1478  ls
+ 1479  git pull
+ 1480  git log --pretty=oneline
+ 1481  ls
+ 1482  sudo chown -R $USER: Innopoints-3.0
+ 1483  git reflog
+ 1484  git reset --hard /home/apo/work/python/django/Innopoints-3.0/core\n/home/apo/work/python/django/Innopoints-3.0/individual_achievement\n/home/apo/work/python/django/Innopoints-3.0/innopoints\n/home/apo/work/python/django/Innopoints-3.0/job\n/home/apo/work/python/django/Innopoints-3.0/store\n/home/apo/work/python/django/Innopoints-3.0/user_profile\n/home/apo/work/python/django/Innopoints-3.0/docker-compose.yml\n/home/apo/work/python/django/Innopoints-3.0/Dockerfile\n/home/apo/work/python/django/Innopoints-3.0/manage.py\n/home/apo/work/python/django/Innopoints-3.0/README.md\n/home/apo/work/python/django/
+ 1485  git reflog
+ 1486  ls
+ 1487  cd work/python/Innopoints-3.0/
+ 1488  git reflog
+ 1489  git reset --hard 86282d5
+ 1490  git checkout  feature/store_profile_indAch_api
+ 1491  git merge feature/api
+ 1492  git checkout feature/api 
+ 1493  git log --pretty=oneline
+ 1494  cd work/python/Innopoints-3.0/
+ 1495  cd ..
+ 1496  git add .
+ 1497  git commit -m "Add api for store, user profile, individual achievement"
+ 1498  git push -u origin feature/api
+ 1499  sudo pip install django-rest-swagger
+ 1500  cd work/python/Innopoints-3.0/
+ 1501  docker-compose up --build -d
+ 1502  docker-compose up
+ 1503  sudo pip install django-rest-knox
+ 1504  docker-compose up --build -d
+ 1505  docker-compose up
+ 1506  docker-compose exec web python manage.py makemigrations
+ 1507  cd work/python/Innopoints-3.0/
+ 1508  docker-compose exec web python manage.py makemigrations
+ 1509  docker-compose exec web python manage.py migrate
+ 1510  docker-compose exec web python manage.py makemigrations
+ 1511  docker-compose exec web python manage.py migrate
+ 1512  ls
+ 1513  cd work/python/Innopoints-3.0/
+ 1514  sudo rm core/migrations/0002_auto_20180609_1131.py
+ 1515  docker-compose exec web python manage.py makemigrations
+ 1516  docker-compose exec web python manage.py migrate
+ 1517  ls
+ 1518  sudo thunar
+ 1519  docker-compose exec web python manage.py makemigrations
+ 1520  docker-compose exec web python manage.py makemigrations core individual_achievement job store user_profile
+ 1521  docker-compose exec web python manage.py migrate
+ 1522  sudo docker stop $(sudo docker ps -a -q)
+ 1523  sudo docker rm $(sudo docker ps -a -q)
+ 1524  sudo docker rmi $(sudo docker images -a -q)
+ 1525  docker-compose up --build -d
+ 1526  yaourt -S th08
+ 1527  locale -a
+ 1528  sudo nano /etc/locale.gen
+ 1529  locale-gen
+ 1530  sudo locale-gen
+ 1531  locale
+ 1532  local -a
+ 1533  locale -a
+ 1534  sudo pacman -S adobe-source-han-sans-jp-fonts
+ 1535  sudo pacman -S ttf-sazanami ttf-hanazono otf-ipafont 
+ 1536  docker-compose up 
+ 1537  docker-compose exec web python manage.py makemigrations
+ 1538  docker-compose exec web python manage.py migrate
+ 1539  yaourt -S th06
+ 1540  yaourt -S th06-demo
+ 1541  yaourt -S th06-demo-wine
+ 1542  docker-compose exec web python manage.py createsupperuser
+ 1543  docker-compose exec web python manage.py createsuperuser
+ 1544  sudo pacman -S timidity++
+ 1545  systemctl start timidity.service 
+ 1546  sudo mousepad /etc/timidity++/timidity.cfg 
+ 1547  sudo pacman -S timidity-freepats
+ 1548  sudo mousepad /etc/timidity++/timidity.cfg 
+ 1549  systemctl is-active timidity.service 
+ 1550  systemctl disable timidity.service 
+ 1551  systemctl stop timidity.service 
+ 1552  systemctl start timidity.service 
+ 1553  cd work/python/Innopoints-3.0/
+ 1554  docker-compose up 
+ 1555  curl --request POST \\n  --url http://localhost:8000/api/auth/login/ \\n  --header 'content-type: application/json' \\n  --data '{\n    "username": "user1",\n    "password": "hunter2"\n}'
+ 1556  curl --request GET \\n  --url http://localhost:8000/api/auth/user/ \\n  --header 'authorization: Token ee59a9d289eb1cb8757895837a2ded46914d96b1da87e9f79619b6856b5cf252' \\n  --header 'content-type: application/json' \\n
+ 1557  curl --request GET \\n  --url http://localhost:8000/api/auth/user/ \\n  --header 'authorization: Token ee59a9d289eb1cb8757895837a2ded46914d96b1da87e9f79619b6856b5cf252' \\n  --header 'content-type: application/json' \n
+ 1558  curl --request POST \\n  --url http://localhost:8000/api/auth/login/ \\n  --header 'content-type: application/json' \\n  --data '{\n    "username": "user1",\n    "password": "hunter2"\n}'
+ 1559  curl --request GET \\n  --url http://localhost:8000/api/auth/user/ \\n  --header 'authorization: Token ee59a9d289eb1cb8757895837a2ded46914d96b1da87e9f79619b6856b5cf252' \\n  --header 'content-type: application/json' \n
+ 1560  curl --request POST \\n  --url http://localhost:8000/api/auth/login/ \\n  --header 'content-type: application/json' \\n  --data '{\n    "username": "user1",\n    "password": "hunter2"\n}'
+ 1561  curl --request GET \\n  --url http://localhost:8000/api/auth/user/ \\n  --header 'authorization: Token 579505049078e8655c470dc44504fee9e5e1f79dd700f5b440008cf712495076' \\n  --header 'content-type: application/json' \n
+ 1562  docker-compose exec web python manage.py makemigrations
+ 1563  cd work/python/Innopoints-3.0/
+ 1564  docker-compose exec web python manage.py makemigrations
+ 1565  docker-compose exec web python manage.py migrate
+ 1566  docker-compose exec web python manage.py makemigrations
+ 1567  docker-compose exec web python manage.py migrate
+ 1568  docker-compose up 
+ 1569  docker-compose exec web python manage.py makemigrations
+ 1570  sudo pip install django-pylibmc
+ 1571  docker-compose up --build -d
+ 1572  sudo pip install python-memcached
+ 1573  sudo pip install pylibmc
+ 1574  sudo pip install -U setuptools
+ 1575  docker-compose up --build -d
+ 1576  sudo docker stop $(sudo docker ps -a -q)
+ 1577  sudo docker rm $(sudo docker ps -a -q)
+ 1578  sudo docker rmi $(sudo docker images -a -q)
+ 1579  docker-compose up --build -d
+ 1580  docker-compose up
+ 1581  cd work/python/Innopoints-3.0/
+ 1582  docker-compose exec web python manage.py makemigrations
+ 1583  docker-compose exec web python manage.py migrate
+ 1584  docker-compose exec web python manage.py createsuperuser
+ 1585  docker-compose up --build -d
+ 1586  docker-compose up
+ 1587  sudo pacman -S celery
+ 1588  sudo pip install celery
+ 1589  sudo pip install django-celery-results
+ 1590  docker-compose up --build -d
+ 1591  sudo pip install django-celery-results
+ 1592  docker-compose up
+ 1593  docker-compose exec web python manage.py makemigrations
+ 1594  docker-compose exec web python manage.py migrate
+ 1595  docker-compose exec web python manage.py makemigrations
+ 1596  docker-compose exec web python manage.py migrate
+ 1597  git add .
+ 1598  git commit -m "Configurate swagger integration, cache, celery, auth"
+ 1599  git push -u origin feature/api
+ 1600  sudo pacman -Syu
+ 1601  sudo pacman -Qo /usr/lib/python3.6/site-packages/urllib3/__init__.py
+ 1602  whereis python-urllib3
+ 1603  sudo pacman -Qo /usr/lib/python3.6/site-packages/
+ 1604  sudo pacman -Qo /usr/lib/python3.6/site-packages/urllib3
+ 1605  sudo pacman -Qo /usr/lib/python3.6/site-packages/chardet
+ 1606  sudo pacman -Qo /usr/lib/python3.6/site-packages/idna
+ 1607  sudo pacman -Qo /usr/lib/python3.6/site-packages/requests
+ 1608  sudo pacman -Qo /usr/lib/python3.6/site-packages/pip
+ 1609  sudo pacman -Syu
+ 1610  sudo rm -rf /usr/lib/python3.6/site-packages/pip
+ 1611  sudo rm -rf /usr/lib/python3.6/site-packages/requests
+ 1612  sudo rm -rf /usr/lib/python3.6/site-packages/idna
+ 1613  sudo rm -rf /usr/lib/python3.6/site-packages/chardet
+ 1614  sudo rm -rf /usr/lib/python3.6/site-packages/urllib3
+ 1615  sudo pacman -Syu
+ 1616  sudo pacman -Qo /usr/bin/chardetect
+ 1617  sudo pacman -S python-chardet --force
+ 1618  sudo pacman -Syu
+ 1619  sudo pacman -S rabbitmq
+ 1620  sudo pacman -S redis
+ 1621  cd work/python/Innopoints-3.0/
+ 1622  celery -A innopoints worker -l info
+ 1623  cd work/python/Innopoints-3.0/
+ 1624  docker-compose up
+ 1625  docker-compose up --build -d
+ 1626  snmpnetstat -nlp
+ 1627  snmpnetstat 
+ 1628  netstat -nlp
+ 1629  sudo pip install django-celery-beat
+ 1630  cd work/python/Innopoints-3.0/
+ 1631  ls
+ 1632  python -m celery -A innopoints beat -l info --scheduler django_celery_beat.schedulers:DatabaseScheduler debug
+ 1633  python -m celery -A innopoints beat -l info --scheduler django_celery_beat.schedulers:DatabaseScheduler
+ 1634  python -m celery -A innopoints beat -l debug  info --scheduler django_celery_beat.schedulers:DatabaseScheduler
+ 1635  python -m celery -A innopoints worker -l debug
+ 1636  python -m celery -A innopoints beat -l info --scheduler django_celery_beat.schedulers:DatabaseScheduler -l debug
+ 1637  sudo docker stop $(sudo docker ps -a -q)
+ 1638  sudo docker rm $(sudo docker ps -a -q)
+ 1639  sudo docker rmi $(sudo docker images -a -q)
+ 1640  sudo docker volume rm $(sudo docker volume ls -qf dangling=true)\\n
+ 1641  sudo docker network rm $(sudo docker network ls -q)
+ 1642  lsof -nP | grep LISTEN
+ 1643  docker-compose up --build -d
+ 1644  man docker-compose
+ 1645  man docker
+ 1646  sudo pip install redis
+ 1647  ls
+ 1648  mousepad check-config.sh
+ 1649  cd work/python/Innopoints-3.0/
+ 1650  chmod +x check-config.sh
+ 1651  ./check-config.sh
+ 1652  sudo docker info
+ 1653  ls
+ 1654  git add .
+ 1655  git commit -m "Continue celery configuration"
+ 1656  git push -u origin feature/api
+ 1657  ls
+ 1658  cd work/python/Innopoints-3.0/
+ 1659  docker-compose up --build -d
+ 1660  sudo docker stop $(sudo docker ps -a -q)
+ 1661  sudo docker rm $(sudo docker ps -a -q)
+ 1662  sudo docker rmi $(sudo docker images -a -q)
+ 1663  sudo docker volume rm $(sudo docker volume ls -qf dangling=true)\\n
+ 1664  docker-compose up --build -d
+ 1665  docker-compose up
+ 1666  docker-compose up --build -d
+ 1667  docker-compose up
+ 1668  cd Innopoints-3.0
+ 1669  cd work/python/Innopoints-3.0/
+ 1670  docker-compose exec web python manage.py makemigrations
+ 1671  docker-compose exec web python manage.py migrate
+ 1672  docker-compose up
+ 1673  cd work/python/Innopoints-3.0/
+ 1674  docker-compose exec web echo never > /sys/kernel/mm/transparent_hugepage/enabled
+ 1675  docker-compose exec redis echo never > /sys/kernel/mm/transparent_hugepage/enabled
+ 1676  sudo docker-compose exec redis echo never > /sys/kernel/mm/transparent_hugepage/enabled
+ 1677  sudo docker-compose exec redis sudo echo never > /sys/kernel/mm/transparent_hugepage/enabled
+ 1678  docker-compose up --build -d
+ 1679  docker-compose up
+ 1680  docker-compose up --build -d
+ 1681  docker-compose up
+ 1682  docker-compose exec web redis --info
+ 1683  docker-compose up --build -d
+ 1684  docker-compose up
+ 1685  docker-compose exec redis redis --info
+ 1686  docker-compose exec redis /bin/bash
+ 1687  cd work/python/Innopoints-3.0/
+ 1688  sudo docker ps
+ 1689  sudo docker ps -a -q
+ 1690  sudo docker ps -a 
+ 1691  sudo docker inspect 8746a356c880 | grep "IPAddress"
+ 1692  cd work/python/Innopoints-3.0/
+ 1693  docker-compose up
+ 1694  sudo docker inspect 8746a356c880 | grep "IPAddress"
+ 1695  cd work/python/Innopoints-3.0/
+ 1696  docker-compose up
+ 1697  docker-compose up --build -d
+ 1698  docker-compose up
+ 1699  sudo docker inspect 8746a356c880 | grep "IPAddress"
+ 1700  docker-compose up --build -d
+ 1701  docker-compose up
+ 1702  docker-compose up --build -d
+ 1703  docker-compose up
+ 1704  docker-compose up --build -d
+ 1705  docker-compose up
+ 1706  git add .
+ 1707  git commit -m "Finish (I hope DX) celery configuration"
+ 1708  git push -u origin feature/api
+ 1709  sudo pacman -S krita
+ 1710  dmesg | grep -i wacom
+ 1711  sudo pacman -S xf86-input-wacom
+ 1712  dmesg | grep -i wacom
+ 1713  lsusb
+ 1714  dmesg | grep -i wacom
+ 1715  xsetwacom --list devices
+ 1716  dmesg | grep -i wacom
+ 1717  xsetwacom --list devices
+ 1718  dmesg | grep -i wacom
+ 1719  yaourt -S xf86-input-wacom-git
+ 1720  yaourt -S  wacom 0003:056A:037A.0002: Unknown device_type
+ 1721  yaourt -S input-wacom-dkms
+ 1722  dmesg | grep -i wacom
+ 1723  xsetwacom --list devices
+ 1724  modinfo wacom | grep version
+ 1725  dmesg | grep -i wacom
+ 1726  modinfo wacom | grep version
+ 1727  dmesg | grep -i wacom
+ 1728  lsusb
+ 1729  dmesg | grep -i wacom
+ 1730  modinfo wacom | grep version
+ 1731  xsetwacom --list devices
+ 1732  grep "" /sys/module/wacom*/version
+ 1733  dmesg
+ 1734  dmesg wacom
+ 1735  dmesg --help
+ 1736  dmesg --help err
+ 1737  dmesg err
+ 1738  dmesg --err
+ 1739  yaourt -R input-wacom-dkms
+ 1740  yaourt -Rsn input-wacom-dkms
+ 1741  modinfo wacom | grep version
+ 1742  dmesg | grep -i wacom
+ 1743  modinfo wacom | grep version
+ 1744  xsetwacom --list devices
+ 1745  ls /dev/input/mice
+ 1746  grep "" /sys/module/wacom/version
+ 1747  modinfo wacom | grep version
+ 1748  sudo pacman -Sy
+ 1749  sudo pacman -S xf86-input-wacom
+ 1750  xsetwacom --list devices
+ 1751  dmesg | grep -i wacom
+ 1752  cd work/python/Innopoints-3.0/
+ 1753  ls
+ 1754  docker-compose up
+ 1755  docker-compose up --build -d
+ 1756  docker-compose up
+ 1757  cd work/python/Innopoints-3.0/
+ 1758  docker-compose exec web python manage.py createsuperuser
+ 1759  docker-compose exec web python manage.py startapp badge
+ 1760  sudo chown -R $USER: badge
+ 1761  journalctl -b -1 > log
+ 1762  ls
+ 1763  mousepad log
+ 1764  rm log
+ 1765  ls
+ 1766  cd work/python/Innopoints-3.0/
+ 1767  docker-compose up
+ 1768  cd work/python/Innopoints-3.0/
+ 1769  docker-compose exec web python manage.py makemigrations
+ 1770  docker-compose exec web python manage.py migrate
+ 1771  ls
+ 1772  sudo docker stop $(sudo docker ps -a -q)
+ 1773  sudo docker rm $(sudo docker ps -a -q)
+ 1774  sudo docker rmi $(sudo docker images -a -q)
+ 1775  sudo docker volume rm $(sudo docker volume ls -qf dangling=true)\\n
+ 1776  sudo docker volume rm $(sudo docker volume ls -qf dangling=true)\n
+ 1777  ls
+ 1778  sudo chown -R $USER: *
+ 1779  docker-compose up --build -d
+ 1780  docker-compose up
+ 1781  docker-compose exec web python manage.py makemigrations *
+ 1782  docker-compose exec web python manage.py makemigrations badge individual_achievement store core user_profile job
+ 1783  docker-compose exec web python manage.py migrate
+ 1784  docker-compose exec web python manage.py makemigrations badge individual_achievement store core user_profile job
+ 1785  docker-compose exec web python manage.py migrate
+ 1786  docker-compose exec web python manage.py createsuperuser
+ 1787  docker-compose up
+ 1788  docker-compose exec web python manage.py makemigrations 
+ 1789  docker-compose exec web python manage.py migrate
+ 1790  sudo chown -R $USER: *
+ 1791  git add .
+ 1792  git commit -m "Fix old code, fix urls, add badge app"
+ 1793  git push -u origin feature/api
+ 1794  docker-compose exec web python manage.py makemigrations 
+ 1795  docker-compose up
+ 1796  docker-compose exec web python manage.py makemigrations 
+ 1797  docker-compose exec web python manage.py migrate
+ 1798  cd work/python/Innopoints-3.0/
+ 1799  sudo chown -R $USER: *
+ 1800  docker-compose exec web python manage.py makemigrations 
+ 1801  docker-compose exec web python manage.py migrate
+ 1802  cd work/python/Innopoints-3.0/
+ 1803  sudo rm -r img
+ 1804  ls
+ 1805  cd work/python/Innopoints-3.0/
+ 1806  sudo rm -r img
+ 1807  cd work/python/Innopoints-3.0/
+ 1808  sudo rm 8z0CVRACpxc.jpg
+ 1809  ls
+ 1810  git add innopoints/*
+ 1811  git add innopoints/.
+ 1812  git commit -m "Now images correct work"
+ 1813  git push -u origin feature/api
+ 1814  whereis gcc
+ 1815  whereis cmake
+ 1816  whereis make
+ 1817  gdb
+ 1818  sudo pacman -S gdb
+ 1819  gdb
+ 1820  whereis gdb
+ 1821  cd work
+ 1822  cd other
+ 1823  ls
+ 1824  cd C
+ 1825  cc Untitled-1.c
+ 1826  ls
+ 1827  a.out
+ 1828  ./a.out
+ 1829  ./a.out 
+ 1830  cc Untitled-1.c
+ 1831  ./a.out
+ 1832  cc Untitled-1.c
+ 1833  ./a.out 
+ 1834  cc Untitled-1.c
+ 1835  ./a.out 
+ 1836  cc Untitled-1.c
+ 1837  ./a.out 
+ 1838  cc Untitled-1.c
+ 1839  ./a.out 
+ 1840  cc Untitled-1.c
+ 1841  ./a.out 
+ 1842  cc Untitled-1.c
+ 1843  ./a.out 
+ 1844  cc Untitled-1.c
+ 1845  ./a.out 
+ 1846  cc Untitled-1.c
+ 1847  ./a.out 
+ 1848  cc Untitled-1.c
+ 1849  ./a.out 
+ 1850  cc Untitled-1.c
+ 1851  ./a.out 
+ 1852  cc Untitled-1.c
+ 1853  ./a.out 
+ 1854  cc Untitled-1.c
+ 1855  ./a.out 
+ 1856  cc Untitled-1.c
+ 1857  ./a.out 
+ 1858  cc Untitled-1.c
+ 1859  ./a.out 
+ 1860  cc Untitled-1.c
+ 1861  ./a.out 
+ 1862  cc Untitled-1.c
+ 1863  ./a.out 
+ 1864  cc Untitled-1.c
+ 1865  ./a.out 
+ 1866  cc Untitled-1.c
+ 1867  ./a.out 
+ 1868  cc Untitled-1.c
+ 1869  ./a.out 
+ 1870  cc Untitled-1.c
+ 1871  ./a.out 
+ 1872  cc Untitled-1.c
+ 1873  ./a.out 
+ 1874  cc Untitled-1.c
+ 1875  ./a.out 
+ 1876  cc Untitled-1.c
+ 1877  ./a.out 
+ 1878  cc Untitled-1.c
+ 1879  ./a.out 
+ 1880  sudo pip install pinax-badges
+ 1881  cd work/python/Innopoints-3.0/
+ 1882  sudo rm cot.jpg
+ 1883  docker-compose up --build -d
+ 1884  docker-compose up
+ 1885  cd work/python/Innopoints-3.0/
+ 1886  docker-compose exec web python manage.py makemigrations 
+ 1887  docker-compose exec web python manage.py migrate
+ 1888  docker-compose exec web python manage.py makemigrations 
+ 1889  docker-compose exec web python manage.py migrate
+ 1890  docker-compose up
+ 1891  docker-compose up --build -d
+ 1892  docker-compose up
+ 1893  docker-compose exec web python manage.py migrate
+ 1894  docker-compose exec web python manage.py makemigrations 
+ 1895  docker-compose exec web python manage.py migrate
+ 1896  docker-compose exec web python manage.py makemigrations 
+ 1897  docker-compose exec web python manage.py migrate
+ 1898  docker-compose up
+ 1899  docker-compose exec web python manage.py makemigrations 
+ 1900  cd work/python/Innopoints-3.0/
+ 1901  ls
+ 1902  sudo rm -rf badge/migrations
+ 1903  docker-compose exec web python manage.py makemigrations badge
+ 1904  docker-compose exec web python manage.py makemigrations badge individual_achievement store core user_profile job
+ 1905  docker-compose exec web python manage.py migrate
+ 1906  docker-compose exec web python manage.py makemigrations 
+ 1907  docker-compose up --build -d
+ 1908  netstat | grep 5432
+ 1909  sudo pacman -S netstat
+ 1910  ss | grep 5432
+ 1911  sudo pacman -Qo /bin/netstat     
+ 1912  netstat | grep 5432
+ 1913  netcap
+ 1914  sudo netcap
+ 1915  sudo netcap | grep 5432
+ 1916  sudo netcap
+ 1917  sudo postgres 
+ 1918  sudo postgres --stop
+ 1919  postgres --stop
+ 1920  sudo pkill -u postgres
+ 1921  docker-compose up --build -d
+ 1922  docker-compose up
+ 1923  docker-compose up --build -d
+ 1924  docker-compose up
+ 1925  docker exec -tiu postgres proget-postgres psql
+ 1926  docker exec -tiu postgres db psql
+ 1927  docker exec -tiu postgres innopoints-30_db_1 psql
+ 1928  docker run -tiu postgres innopoints-30_db_1 psql
+ 1929  docker login
+ 1930  docker volume rm $(docker volume ls -q)
+ 1931  sudo docker volume rm $(sudo docker volume ls -q)
+ 1932  docker rm -f -v innopoints-30_db_1 psql
+ 1933  docker rm -f -v innopoints-30_db_1
+ 1934  docker info
+ 1935  docker ps -a -q
+ 1936  docker ps -a
+ 1937  docker-compose up --build -d
+ 1938  docker ps -a
+ 1939  docker-compose up
+ 1940  docker-compose exec web python manage.py makemigrations 
+ 1941  docker-compose exec web python manage.py migrate
+ 1942  docker-compose up
+ 1943  docker-compose exec web python manage.py createsuperuser
+ 1944  sudo chown -R $USER: *
+ 1945  git add .
+ 1946  git commit -m "Update core, user profile and badge app, make some fixes"
+ 1947  git push -u origin feature/api
+ 1948  cd work/other/C
+ 1949  cc Untitled-1.c
+ 1950  ./a.out 
+ 1951  cc Untitled-1.c
+ 1952  ./a.out 
+ 1953  steam
+ 1954  steam &
+ 1955  disown
+ 1956  htop
+ 1957  screenfetch
+ 1958  python3
+ 1959  cd work/other/C
+ 1960  cd ~
+ 1961  cd work/python/Innopoints-3.0/
+ 1962  docker-compose up
+ 1963  sudo postgres --stop
+ 1964  docker-compose up
+ 1965  sudo pkill -u postgres
+ 1966  docker-compose up
+ 1967  cd work/python/Innopoints-3.0/
+ 1968  docker-compose exec web python manage.py makemigrations 
+ 1969  docker-compose exec web python manage.py migrate
+ 1970  docker-compose up
+ 1971  cd work/python/Innopoints-3.0/
+ 1972  docker-compose exec web python manage.py makemigrations 
+ 1973  docker-compose exec web python manage.py migrate
+ 1974  docker-compose up
+ 1975  sudo chown -R $USER: *
+ 1976  git add .
+ 1977  git commit -m "Update badge app"
+ 1978  git push -u origin feature/api
+ 1979  npm start
+ 1980  node --version
+ 1981  npm install react
+ 1982  sudo npm installtall reackt
+ 1983  sudo npm installtall react
+ 1984  cd work/python/Innopoints-3.0/
+ 1985  cd ..
+ 1986  cd front
+ 1987  npm start
+ 1988  sudo pacman -Syu
+ 1989  pacman -Qo /usr/lib/xfce4/thunar-archive-plugin/engrampa.tap 
+ 1990  sudo pacman -Syu
+ 1991  sudo pacman -S --overwrite thunar-archive-plugin 
+ 1992  sudo pacman -S thunar-archive-plugin 
+ 1993  sudo pacman -S --overwrite thunar-archive-plugin 
+ 1994  sudo pacman -force -S thunar-archive-plugin 
+ 1995  sudo pacman --force -S thunar-archive-plugin 
+ 1996  sudo pacman -Syu
+ 1997  yaourt -Syua
+ 1998  y
+ 1999  yaourt -Syua
+ 2000  sudo cat /etc/resolv.conf
+ 2001  ls tmp
+ 2002  nano tmp/resolv.conf
+ 2003  sudo cp tmp/resolv.conf /etc/resolv.conf
+ 2004  sudo cat /etc/resolv.conf
+ 2005  ping 8.8.8.8
+ 2006  ping 1.1.1.1
+ 2007  nano tmp/resolv.conf
+ 2008  sudo cp tmp/resolv.conf /etc/resolv.conf
+ 2009  ping 1.1.1.1
+ 2010  ping 8.8.4.4
+ 2011  sudo pacman -Syu
+ 2012  yaourt -Syua
+ 2013  ps
+ 2014  htop
+ 2015  sudo docker ps
+ 2016  cd work/python/Innopoints-3.0/
+ 2017  sudo docker stop $(sudo docker ps -a -q)
+ 2018  sudo docker ps
+ 2019  sudo docker ps -a 
+ 2020  sudo docker info
+ 2021  htop
+ 2022  cd work/python/Innopoints-3.0/
+ 2023  sudo docker rm $(sudo docker ps -a -q)
+ 2024  sudo docker rmi $(sudo docker images -a -q)
+ 2025  sudo docker volume rm $(sudo docker volume ls -q)
+ 2026  htop
+ 2027  sudo docker info
+ 2028  sudo docker ps
+ 2029  ping 8.8.8.8
+ 2030  ping https://grouple.co/user/rss/279756\?filter\=
+ 2031  ping 8.8.8.8
+ 2032  ping ya.ru
+ 2033  ping grouple.co
+ 2034  ping grouple.co/user/rss/279756\?filter\=
+ 2035  ping grouple.co/user/
+ 2036  ping 8.8.8.8
+ 2037  ping -c4 8.8.8.8
+ 2038  sudo pacman -Syu
+ 2039  less /etc/resolv
+ 2040  less /etc/resolv.conf
+ 2041  sudo cp tmp/resolv.conf /etc/resolv.conf
+ 2042  less /etc/resolv.conf
+ 2043  sudo pacman -Syu
+ 2044  pacman-mirrors
+ 2045  sudo cp tmp/resolv.conf /etc/resolv.conf
+ 2046  sudo pacman -Syu
+ 2047  sudo cp tmp/resolv.conf /etc/resolv.conf
+ 2048  ping ya.ru
+ 2049  ping 8.8.8.8
+ 2050  ping ya.ru
+ 2051  cat /etc/resolv.conf
+ 2052  sudo cp tmp/resolv.conf /etc/resolv.conf
+ 2053  cat /etc/resolv.conf
+ 2054  ping 8.8.8.8
+ 2055  cat /etc/resolv.conf
+ 2056  ping ya.ru
+ 2057  lsblk 
+ 2058  ping http://vpn.university.innopolis.ru/
+ 2059  ping vpn.university.innopolis.ru
+ 2060  sudo pacman -Syu
+ 2061  sudo cp tmp/resolv.conf /etc/resolv.conf
+ 2062  yaourt -Syua
+ 2063  ls
+ 2064  cd work
+ 2065  ls
+ 2066  cd github
+ 2067  mkdir github
+ 2068  cd github
+ 2069* cd work
+ 2070* nano .git
+ 2071* nano .gitignore
+ 2072  cd ..
+ 2073  git add .
+ 2074  git reset ~HEAD
+ 2075  git rm .
+ 2076  git rm -r .
+ 2077  git reset HEAD~
+ 2078  nano .gitignore
+ 2079  git add .gitignore
+ 2080  git commit -m "Fix ignore"
+ 2081  git push origin master
+ 2082  git pull
+ 2083  rm -r python/django/study
+ 2084  git pull
+ 2085  rm .gitignore
+ 2086  git pull
+ 2087  git rm .gitignore
+ 2088  git rm homeworks/
+ 2089  git rm -r *
+ 2090  git rm -r homeworks/
+ 2091  git rm -r java/
+ 2092  git rm -r other/
+ 2093  git rm -r python/
+ 2094  git log --pretty=oneline
+ 2095  git reset --hard a2a76fd0c79068e73a3f3b5180808175e10f28be 
+ 2096  git pull
+ 2097  git log --pretty=oneline
+ 2098  cat .gitignore
+ 2099  nano .gitignore
+ 2100  ls
+ 2101  git add .gitignore
+ 2102  git commit -m "Fix ignore"
+ 2103  git push origin master
+ 2104  cd github
+ 2105  mkdir week1
+ 2106  cd week1
+ 2107  history > ex2.txt
+ 2108  ls ex2.txt
+ 2109  less ex2.txt
+ 2110  man grep
+ 2111  grep -rl "gcc" /usr/bin > ext1.txt
+ 2112  man grep
+ 2113  rm ext1.txt
+ 2114  grep -rl "gcc" /usr/bin | sort -r > ext1.txt
