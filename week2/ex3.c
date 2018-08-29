@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-int main()
+int main(int argc, char *argv[])
 {
     int n;
-    scanf("%d", &n);
+    sscanf(argv[1], "%d", &n);
     int length = 2*n - 1;
     for(int i = n - 1; i >= 0; i--)
     {
