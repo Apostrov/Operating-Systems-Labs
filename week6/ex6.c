@@ -12,13 +12,13 @@ int main()
     pid_t child1 = fork();
     if(child1 == 0)
     {
-        printf("First child start\n");
+        printf("CHILD 1: Start\n");
         pid_t child2;
         read(mypipe[0], &child2, sizeof(child2));
-        printf("Read from pipe child2 pid\n");
+        printf("CHILD 1: Read from pipe child2 pid\n");
         sleep(3);
         kill(child2, SIGSTOP);
-        printf("Send SIGSTOP to child2\n");
+        printf("CHILD 1: Send SIGSTOP to child2\n");
         exit(0);
     }
     else
@@ -26,18 +26,18 @@ int main()
         pid_t child2 = fork();
         if(child2 == 0)
         {
-            printf("Second child start\n");
+            printf("CHILD 2: Start\n");
             while(1) {
-                printf("Child2 alive\n");
+                printf("CHILD 2: Alive\n");
                 sleep(1);
             }
         } else {
             write(mypipe[1], &child2, sizeof(child2));
-            printf("Send to pipe child2 pid\n");
-            printf("Wait child2\n");
+            printf("PARENT: Send to pipe child2 pid\n");
+            printf("PARENT: Wait child2\n");
             int *status;
-            waitpid(child2, status, 0);
-            printf("Parent awake\n");
+            waitpid(child2, status, WUNTRACED);
+            printf("PARENT: Parent awake\n");
         }
     }
     return 0;
