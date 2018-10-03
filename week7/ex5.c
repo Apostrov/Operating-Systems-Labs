@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main() {
-    char **s = malloc(0);
+    char **s = malloc(sizeof(char *));
     char foo[] = "Hello World";
     *s = foo; 
     printf("s is %s\n",*s);
