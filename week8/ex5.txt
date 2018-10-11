@@ -1,0 +1,3 @@
+Physical address - real address to hardware address
+Virtual address - abstraction address mapped into physical
+address
