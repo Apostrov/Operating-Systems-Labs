@@ -1,0 +1,2 @@
+The only difference it's first printf(), where in 2 program we fluch buffer with '/n', so 2 program child process's buffer is empty. 
+In 1 program After fork() child process have in buffer "Hello".
